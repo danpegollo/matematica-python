@@ -6,5 +6,6 @@ blocos = agua / 1000
 valor_conta = blocos * valor_1000
 valor_desconto = valor_conta * 0.85
 
+
 print("O valor da conta vai ser de",valor_conta)
 print("O valor da conta com desconto é de",valor_desconto)
